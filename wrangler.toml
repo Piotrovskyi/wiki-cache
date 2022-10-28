@@ -1,0 +1,6 @@
+name = "wiki-cache"
+main = "src/index.ts"
+compatibility_date = "2022-10-28"
+kv_namespaces = [
+  { binding = "WIKI_CACHE", id = "847458c1299f4b27a95b9768197495fe", preview_id= "ac41500fc080427c80a87f2eacdd9a6e" }
+]
